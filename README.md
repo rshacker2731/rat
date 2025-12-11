@@ -1,4 +1,4 @@
-APLITUDE MODULATION AND DEMODULATION
+APLITUDE MODULATION AND DEMODULATION 🚙
 
 close all; 
 
@@ -110,7 +110,7 @@ plot(t,mr3);
 
 title(' deModulated signal for(ka.Am=2.5)');
 
-FREQUENCY MODULATION
+FREQUENCY MODULATION 🚌
 
 close all; 
 
@@ -201,7 +201,7 @@ DSB
 
 & DETECTOR
 
-close all 
+cMODULATOR 🚌
 
 clear all 
 
@@ -273,7 +273,7 @@ plot(t,mr);
 
 SIMULATION OF DSSS GENERATION 
 
-SCHEMES
+SCHEMES🚙
 
 clc;
 
@@ -474,7 +474,7 @@ ylabel('Amplitude');
 grid on
 
 ;
-EYE DIAGRAM 
+EYE DIAGRAM 🚌
 
 N=100;
 
@@ -512,7 +512,7 @@ ylabel('Amplitude'); axis([-1 1 -2 2])
 
 SIMULATION OF ASK GENERATION & 
 
-DETECTION SCHEMES
+DETECTION SCHEMES🚙
 
 clc;
 
@@ -608,12 +608,11 @@ ylabel('b(n)');
 
 SIMULATION OF FSK GENERATION & 
 
-DETECTION SCHEMES
+DETECTION SCHEMES🚌
 
 clc;
 
-clear all; 
-
+clear all;
 close all;
 
 f1 = input("Enter the frequency of Carrier 1 (Hz): "); 
